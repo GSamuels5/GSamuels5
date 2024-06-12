@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently a technical intern will the following skills: HTML | CSS | Javascript | Python | C++ | Node js | Vue 3 | MySQL | Linux
+Im currently a Technical Intern will the following skills: HTML | CSS | Javascript | Python | C++ | Node js | Vue 3 | MySQL | Linux
 
 
 ## 🌐 Socials:
