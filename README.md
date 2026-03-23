@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ghamzah Samuels a passionate Web Developer with a focus on building modern, responsive websites and web applications. I enjoy turning ideas into clean, efficient code and solving real-world problems through tech. I'm always learning and exploring new technologies to grow as a developer.This is my current skills: HTML | CSS | Javascript | Python | C++ | Node js | Vue 3 | MySQL | Linux | React 
+Hi, I'm Ghamzah Samuels a passionate Data Storyteller with a focus on building modern, responsive websites and web applications. I enjoy turning ideas into clean, efficient code and solving real-world problems through tech. I'm always learning and exploring new technologies to grow as a developer.This is my current skills: HTML | CSS | Javascript | Python | C++ | Node js | Vue 3 | MySQL | Linux | React 
 
 
 ## 🌐 Socials:
